@@ -50,6 +50,8 @@ Result:
 
 International students show a slightly higher average depression score. This could be due to challenges like culture shock, homesickness and language barriers.
 
+---
+
 ### 2. Does social connectedness affect depression levels?
 
 ```sql
@@ -63,6 +65,8 @@ Correlation between social connectedness and depression: -0.55
 
 A negative correlation means that as social connectedness goes up, depression tends to go down. Students who feel more connected socially have lower depression levels.
 
+---
+
 ### 3. Does acculturative stress predict depression?
 
 ```sql
@@ -75,6 +79,8 @@ Result:
 Correlation between acculturative stress and depression: 0.39
 
 There’s a moderate positive correlation between acculturative stress and depression. The more stress students feel from adapting to a new culture, the higher their depression levels.
+
+---
 
 ### 4. Does language proficiency impact mental health?
 
@@ -96,6 +102,8 @@ Correlation between English language proficiency and depression: 0.013
 
 Result:
 Both correlations are close to zero, showing almost no link between language proficiency and depression. While knowing the language is important, it doesn't seem to have a strong impact on mental health.
+
+---
 
 ### 5. Does length of stay affect depression for international students?
 
@@ -121,6 +129,8 @@ Result:
 
 Length of stay doesn’t show a clear strong impact on depression. Medium-stay students report the highest depression scores, but other factors like acculturative stress might matter more.
 
+---
+
 ### 6. Undergraduate vs Graduate Depression Levels
 
 ```sql
@@ -141,6 +151,8 @@ Result:
 
 Graduate students report lower depression levels than undergrads. This might be because they’re older (something we will analyze above), more experienced, and have better coping strategies. More support for undergrad students could help.
 
+---
+
 ### 7. Is age related to depression?
 
 ```sql
@@ -153,6 +165,8 @@ Result:
 Correlation between age and depression: -0.11
 
 Age has a very weak negative correlation with depression. So, it seems like age isn’t a big factor in depression levels here. Other things, such as social support and cultural stress, likely play a bigger role.
+
+---
 
 ## Final Conclusions
 - Social connectedness is a key factor in fighting depression. Helping students build strong social networks could significantly improve their mental health.
