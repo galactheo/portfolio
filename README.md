@@ -5,7 +5,7 @@ Here you can find some of the projects I've worked on, showcasing my skills in d
 
 | Project | Skills/Tools | Description |
 | :--- | :--- | :--- |
-| 🧠 Mental Health of Exchange Students | Data analysis, SQL | Analyzed how the mental health of exchange students was impacted, using SQL queries to explore and interpret the data.
+| 🧠 [Mental Health of International Students](https://github.com/galactheo/portfolio/blob/main/mental-health.md) | Data analysis, SQL | Analyzed how the mental health of exchange students was impacted, using SQL queries to explore and interpret the data.
 
 ---
 
